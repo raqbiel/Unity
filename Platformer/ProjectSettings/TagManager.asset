@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - platform
+  - enemy
+  - Opos
+  - wisnia
+  - Die
+  - diamond
+  - ladder
+  - block
+  - spikes
+  - Eagle
+  - Life
+  - Breakable
+  - BigDiamond
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - enemy
+  - rock
+  - ground
+  - diamonds
+  - bigrock
+  - footColider
+  - ladder
+  - Breakable
+  - helpPlayer
+  - bossPion
+  - boxes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

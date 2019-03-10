@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://figures-saga-60028664.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">654440974148</string>
+  <string name="google_storage_bucket" translatable="false">figures-saga-60028664.appspot.com</string>
+  <string name="project_id" translatable="false">figures-saga-60028664</string>
+  <string name="google_api_key" translatable="false">AIzaSyBA9JKCjTrE3nbT3CO6mM0e64CfnLQd4m8</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBA9JKCjTrE3nbT3CO6mM0e64CfnLQd4m8</string>
+  <string name="google_app_id" translatable="false">1:654440974148:android:f027e68221861781</string>
+  <string name="default_web_client_id" translatable="false">654440974148-70478ch86d51o2bkj8fqk5hmls0s0ge0.apps.googleusercontent.com</string>
+</resources>

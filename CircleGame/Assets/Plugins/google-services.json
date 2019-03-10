@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "654440974148",
+    "firebase_url": "https://figures-saga-60028664.firebaseio.com",
+    "project_id": "figures-saga-60028664",
+    "storage_bucket": "figures-saga-60028664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654440974148:android:f027e68221861781",
+        "android_client_info": {
+          "package_name": "com.rql.figuressaga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654440974148-70478ch86d51o2bkj8fqk5hmls0s0ge0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "654440974148-lgbl5tshvqs1t57asb0sl22b61gumr1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rql.figuressaga",
+            "certificate_hash": "9f1e2f492e44c045711ca635ed87cef1165ae00c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA9JKCjTrE3nbT3CO6mM0e64CfnLQd4m8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654440974148-70478ch86d51o2bkj8fqk5hmls0s0ge0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
